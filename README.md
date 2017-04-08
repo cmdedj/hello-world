@@ -1,4 +1,4 @@
 # hello-world
-Hello GitHub~!
+Hello cmdedj~!
 
 New Time Is Coming!
